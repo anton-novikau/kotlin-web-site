@@ -6,7 +6,7 @@ Kotlin Night is a meetup that includes 3-4 talks on Kotlin or related technologi
 
 ### Event guidelines
 
-* Please use the [branding materials](https://drive.google.com/drive/folders/1wTJ-PiO6VvbY6XdACGLsWZ_N8KHI0Nvr) we’ve provided. Having all events and materials in the same style will help keep the Kotlin Night experience consistent.
+* Please use the [branding materials](https://drive.google.com/drive/folders/1wTJ-PiO6VvbY6XdACGLsWZ_N8KHI0Nvr) we've provided. Having all events and materials in the same style will help keep the Kotlin Night experience consistent.
 * Kotlin Night should be a free event. A minimal fee can be charged to cover expenses, but it should remain a non-profit event.
 * The event should be announced publicly and open for all people to attend without any kind of discrimination.
 * If you publish the contents of the talks online after the event, they must be free and accessible to everyone, without any sign-up or registration procedures.
@@ -24,7 +24,7 @@ JetBrains is excited to support your Kotlin Night event. Because we want all eve
     * There is enough space as well as food and beverages, if you provide them, for everyone.
     * You have a plan with your speakers. This includes a schedule, topics, abstracts for the talks, and any necessary equipment for the presentations.
 2. Content and speakers
-    * Feel free to invite presenters from your local community, from neighboring countries, or even from all over the globe. You don’t have to have any JetBrains representatives or speakers at your event. However, we are always happy to hear about more Kotlin Nights, so feel free to notify us.
+    * Feel free to invite presenters from your local community, from neighboring countries, or even from all over the globe. You don't have to have any JetBrains representatives or speakers at your event. However, we are always happy to hear about more Kotlin Nights, so feel free to notify us.
 3. Announcements and promotion
     * Announce your event at least three weeks before the date of a meetup.
     * Include the schedule, topics, abstracts, and speaker bios in the announcement.
@@ -51,7 +51,7 @@ JetBrains provides branding and materials for Kotlin Night events. Our team will
 
 ### Social media
 
-Stickers can be used to brand any media necessary for a Kotlin Night. Just stick them on anything you can get your hands on. It’s fun!
+Stickers can be used to brand any media necessary for a Kotlin Night. Just stick them on anything you can get your hands on. It's fun!
 
 ![Cover/Logo](kotlin-night-cover.svg){width=700}
 
