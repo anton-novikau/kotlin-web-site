@@ -1,4 +1,4 @@
-[//]: # (title: Kotlin Nights branding)
+[//]: # (title: Kotlin Nights guidelines)
 
 Kotlin Night is a meetup that includes 3-4 talks on Kotlin or related technologies.
 
